@@ -1,5 +1,3 @@
-# Power-BI-Sales-Profit-Dashboard
-Power BI portfolio project analyzing sales, profit, expenses, product categories, sales methods, and city performance.
 # Power BI Sales and Profit Dashboard
 
 ## Project Overview
