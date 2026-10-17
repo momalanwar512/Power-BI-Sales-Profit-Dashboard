@@ -4,6 +4,7 @@
 This project is an interactive Power BI dashboard for analyzing sales, revenue, profit, expenses, and product performance.
 
 The report contains four pages: Home Page, Map, Sub-Category Performance, and Decomposition Tree.
+![Power BI Sales and Profit Dashboard](Power%20Bi%20Dashboard%20SS.png)
 
 ## Dashboard Pages
 
